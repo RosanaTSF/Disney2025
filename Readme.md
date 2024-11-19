@@ -4,18 +4,18 @@
 Planilha inteligente, feita em Excel, para planejamento da viagem à Disney, para 4 adultos e a gata Penélope. 
 
 ## Objetivos  
-- **Hospedagem** pet-friendly e confortável.  
-- **Passagens aéreas** para 4 adultos e Penélope.  
+- **Hospedagem** pet-friendly.
+- **Passagens aéreas** para 4 adultos e 1 pet.  
 - **Aluguel de carro** espaçoso e apropriado.  
-- Organização de uma viagem de **7 dias** com agenda detalhada.  
-- Contratação de uma **pet sitter** para cuidar e brincar com Penélope durante as visitas aos parques e compras.  
+- Organização com roteiro detalhado.  
+- Contratação de uma **pet sitter** para cuidar e iteragir com Penélope durante as visitas aos parques e compras.  
 
 ## Funcionalidades  
 - **Orçamento Completo**: Passagens, hospedagem, alimentação, ingressos e extras.  
 - **Gráficos Interativos**: Gastos planejados x realizados.  
 - **Checklist**: Documentos e itens essenciais, incluindo cuidados com Penélope.  
 - **Agenda**: Planejamento diário para os 7 dias de viagem.  
-- **Guias Especializados**: Veterinário, terapeuta felino e dicas de passeios.  
+- **Guias Especializados**: incluindo Veterinário e Terapeuta felino.
 
 ## Estrutura do Repositório  (em construção)
 - **Protótipo**: Feito no Canvas.  
