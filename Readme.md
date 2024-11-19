@@ -8,14 +8,15 @@ Planilha inteligente, feita em Excel, para planejamento da viagem à Disney, par
 - **Passagens aéreas** para 4 adultos e 1 pet.  
 - **Aluguel de carro** espaçoso e apropriado.  
 - Organização com roteiro detalhado.  
-- Contratação de uma **pet sitter** para cuidar e iteragir com Penélope durante as visitas aos parques e compras.  
+- Contratação de uma **pet sitter** para cuidar e interagir com Penélope durante as visitas aos parques e compras.  
 
 ## Funcionalidades  
-- **Orçamento Completo**: Passagens, hospedagem, alimentação, ingressos e extras.  
+- **Orçamento**: Passagens, hospedagem, alimentação, ingressos e extras.  
 - **Gráficos Interativos**: Gastos planejados x realizados.  
 - **Checklist**: Documentos e itens essenciais, incluindo cuidados com Penélope.  
 - **Agenda**: Planejamento diário para os 7 dias de viagem.  
 - **Guias Especializados**: incluindo Veterinário e Terapeuta felino.
+- **Previsão do Tempo**: de acordo com a temporada escolhida.  
 
 ## Estrutura do Repositório  (em construção)
 - **Protótipo**: Feito no Canvas.  
