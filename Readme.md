@@ -1,6 +1,6 @@
 # Disney 2025 🎢🐾
 
-![Protótipo](assets/prototipo.jpg)
+![Protótipo](assets/prototipo.jpg) ![Planner](assets/planner.png)
 
 ## Sobre  
 Planilha inteligente, feita em Excel, para planejamento da viagem à Disney, para 4 adultos e a gata Penélope. 
@@ -28,4 +28,4 @@ Planilha inteligente, feita em Excel, para planejamento da viagem à Disney, par
 ## Sobre o Projeto  
 Foi desenvolvido como parte do **Bootcamp CAIXA - IA Generativa com Microsoft Copilot** pela **Digital Innovation One (DIO)**, aplicando técnicas de Excel. 
 
-💡 **Contribuições e sugestões são sempre bem-vindas!** 🐾✨  
+💡 **Contribuições e sugestões são sempre bem-vindas!** 🐾✨
